@@ -65,5 +65,4 @@ public class DatabaseTests
         Assert.IsNull(result);
     }
 
-    // Дополнительные тесты для остальных методов
 }
